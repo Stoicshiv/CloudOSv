@@ -21,3 +21,4 @@ Locally: Download and run CloudOSv on your local system. Explore its features in
 Join the Adventure
 CloudOSv is more than an operating system—it’s a journey into the cloud-native future. Join our community, contribute, and let’s build the best OS for cloud workloads together!
 !CloudOSv
+🥂🥂
