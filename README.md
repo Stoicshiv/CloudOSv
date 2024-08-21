@@ -1,5 +1,5 @@
 CloudOSV :
-Welcome to the CloudOSV project! This repository contains [brief description of your project].
+Welcome to the CloudOSV project! This repository contains The apk build of the project that is accessible and editable tthrough android studio.
 
 Contributing :
 We welcome contributions! If you’d like to contribute, follow these steps:
