@@ -11,3 +11,5 @@ Push to your forked repository: git push origin my-feature-branch.
 Create a pull request.
 License : 
 This project is licensed under the MIT. See the LICENSE file for details.
+
+Happy coding !
